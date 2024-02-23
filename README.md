@@ -9,6 +9,7 @@ Paths for inverse kinematics:
 - MatLabLogo.txt (MatLab's logo)
 - Pinguino.txt (Penguin)
 - poligono.txt (Poligon)
+- Lihour_1.txt (Lihour)
 
 Table for forward kinematics (drive/r's angles)
 - angulos.txt
