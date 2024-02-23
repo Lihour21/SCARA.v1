@@ -25,3 +25,5 @@ SCARA.v1 Robot GUI by:
 - Phnom Penh, Cambodia
 - Platform:   GUI MATLAB R2020a
 - January 2024
+
+  - ![Screenshot (1401)](https://github.com/Lihour21/SCARA.v1/assets/108794757/d5b37b2c-10fc-4661-b412-42cbd85d1bb7)
