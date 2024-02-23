@@ -17,7 +17,7 @@ Table for forward kinematics (drive/r's angles)
 Functions to process images and paths (.png, .mat, .txt)
 - createDrawing.m. Main function
 - circles.m. plots circles of radius r at points x and y. Chad Greene, March 2014. University of Texas Institute for Geophysics.
-- fiveRmic.m. Maximal Inscribed Circle within the workspace of a 5R symetrical parallel mechanism.
+- fiveRmic.m. Maximal Inscribed Circle within the workspace of a 5R symetrical parallel mechanism. [parallel mechanisms](https://www.sciencedirect.com/science/article/abs/pii/S0094114X05000923)
 
 SCARA.v1 Robot GUI by:
 - Mr. SAN Lihour, Mecatronic Engineer
