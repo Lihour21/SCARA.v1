@@ -19,8 +19,8 @@ Functions to process images and paths (.png, .mat, .txt)
 - fiveRmic.m. Maximal Inscribed Circle within the workspace of a 5R symetrical parallel mechanism.
 
 SCARA.v1 Robot GUI by:
-Mr. SAN Lihour, Mecatronic Engineer
-AUTOBOTx Lab, AI FARM Factory
-Phnom Penh, Cambodia
-Platform:   GUI MATLAB R2020a
-January 2024
+- Mr. SAN Lihour, Mecatronic Engineer
+- AUTOBOTx Lab, AI FARM Factory
+- Phnom Penh, Cambodia
+- Platform:   GUI MATLAB R2020a
+- January 2024
