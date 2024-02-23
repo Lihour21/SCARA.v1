@@ -5,7 +5,7 @@ GUI:
 Paths for inverse kinematics:
 - Flamenco.txt (Flamingo)
 - Gallo.txt (Rooster)
-- mano.t/xt (Hand)
+- mano.txt (Hand)
 - MatLabLogo.txt (MatLab's logo)
 - Pinguino.txt (Penguin)
 - poligono.txt (Poligon)
