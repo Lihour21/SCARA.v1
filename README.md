@@ -1,7 +1,7 @@
 # SCARA.v1
 GUI:
 - ScaraRobot.fig. MatLab GUI to controling a 5-Bar symetrical parallel mechanism. There is a bug wich prevents to open the GUI directly. It is necessary to execute from the command window: >>ScaraRobot
-- PanelRobot.m. MatLab script corresponding to ScaraRobot.fig.
+- ScaraRobot.m. MatLab script corresponding to ScaraRobot.fig.
 Paths for inverse kinematics:
 - Flamenco.txt (Flamingo)
 - Gallo.txt (Rooster)
